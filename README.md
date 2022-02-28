@@ -1,6 +1,7 @@
 # Starbucks-Capstone-Project-ML-Udacity-aws
 # Starbucks Promotions Project 
 ## This project is the Capstone Project of Udacity's Machine Learning Engineering Nanodegree program.
+
 ![intro](/images0/aws Ml.png)
 
 ## Problem Statement:
