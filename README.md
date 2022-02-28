@@ -1,10 +1,7 @@
 # Starbucks-Capstone-Project-ML-Udacity-aws
 # Starbucks Promotions Project 
 ## This project is the Capstone Project of Udacity's Machine Learning Engineering Nanodegree program.
-![intro](/images0/x.png)
-![intro](/images0/v.png)
-
-![intro](/images0/s.png)
+![intro](/images0/aws Ml.png)
 
 ## Problem Statement:
 - This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. 
