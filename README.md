@@ -4,7 +4,6 @@
 
 ![intro](/aws Ml.png)
 
-
 ## Problem Statement:
 - This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. 
 - Once every few days, Starbucks sends out an offer to users of the mobile app. 
